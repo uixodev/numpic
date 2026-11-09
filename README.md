@@ -7,7 +7,7 @@ Memorise the **00–99 number associations** (number → picture → word) the w
 - **Lesson flow** – meet the picture → number→picture → match pairs → picture→number → type the number. Wrong answers come back at the end of the lesson.
 - **Smart review** – the weakest cards are drilled first; per-card strength (0–5) is stored on-device.
 - **Library** – all 100 cards with search, per-decade filters and a *Cover mode* for self-testing.
-- XP, daily goal, streak, stars (3 = no mistakes), sound/haptics, dark mode, works offline (PWA).
+- XP, daily goal, streak, stars (3 = no mistakes), sound/haptics, works offline (PWA).
 
 ## Run it
 No build step, no dependencies:
